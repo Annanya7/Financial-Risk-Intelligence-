@@ -103,3 +103,13 @@ This pipeline is designed for real-world fintech and banking environments, provi
 ✅ Explainability & Auditability for compliance and trust.
 ✅ Scalable Engineering supporting batch or streaming workflows.
 ✅ Geospatial Awareness to detect fraud hotspots and trends.
+
+
+
+
+
+<img width="1371" alt="Screenshot 2025-05-09 at 11 51 38 AM" src="https://github.com/user-attachments/assets/6e3bf536-52d0-4bb9-bccc-130bcb4426e6" />
+<img width="1401" alt="Screenshot 2025-05-09 at 11 51 32 AM" src="https://github.com/user-attachments/assets/689b4894-d4f0-4e97-b317-857296a83733" />
+<img width="1390" alt="Screenshot 2025-05-09 at 11 51 20 AM" src="https://github.com/user-attachments/assets/30b04643-8dfc-4186-b3cf-e2cd4744191e" />
+<img width="1395" alt="Screenshot 2025-05-09 at 11 50 42 AM" src="https://github.com/user-attachments/assets/cf3c79bc-b8a5-46ae-8405-6f87b8ad2c7a" />
+
