@@ -1,0 +1,5 @@
+source_file,purchasedate,amount,merchant,merchantcountry,risk_score,fraud_probability,fraud_reasons
+vss_apr/vss_detail_torpagoinc_visa_04.02.2025.csv,2025-04-01,32904.18,UPS*BILLING CENTER       ,US ,80,1.0,Unusual transaction velocity | Unusual hour with high amount | Very high risk score
+vss_apr/vss_detail_torpagoinc_visa_04.02.2025.csv,2025-04-01,5666.15,IN *IMAGENET CONSULTING O,US ,65,0.9395251239851805,Unusual transaction velocity | Unusual hour with high amount
+vss_apr/vss_detail_torpagoinc_visa_04.02.2025.csv,2025-04-01,6001.6,"NEWLEAD, LLC             ",US ,65,0.9406168587968575,Unusual transaction velocity | Unusual hour with high amount
+vss_apr/vss_detail_torpagoinc_visa_04.15.2025.csv,2025-04-14,500.0,NIC*-DOS DIVISION OF CORP,US ,80,0.9335287470668873,Unusual transaction velocity | Unusual hour with high amount | Very high risk score
